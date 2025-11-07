@@ -47,6 +47,7 @@
                 "description": "Handy storage bag for those life saving meds."
             }
         },
+			"addtoSecureFilters": true,
 			"addtoTraders": true,
 			    "traders": {
 			"THERAPIST": {
@@ -67,4 +68,5 @@
 	}
 	}
    }
+
 }
