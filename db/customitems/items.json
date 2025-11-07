@@ -1,0 +1,70 @@
+{
+  "69037c6feea381ccf540b8bd": {
+        "itemTplToClone": "5d235bb686f77443f4331278",
+        "parentId": "5795f317245977243854e041",
+        "handbookParentId": "5b5f6fa186f77409407a7eb7",
+        "overrideProperties": {
+		"ExaminedByDefault": true,
+      "Prefab": {
+        "path": "assets/micc.bundle",
+        "rcid": ""
+      },
+      "Width": 2,
+      "Height": 1,
+      "Weight": 0.50,
+      "Grids": [
+        {
+          "_id": "micc_grid",
+          "_name": "main",
+          "_parent": "5d235bb686f77443f4331278",
+          "_props": {
+            "cellsH": 4,
+            "cellsV": 4,
+            "filters": [
+              {
+                "ExcludedFilter": [],
+                "Filter": [
+                  "57864c8c245977548867e7f1",
+                  "543be5664bdc2dd4348b4569"
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        }
+      ]
+     },
+        "handbookPriceRoubles": 150000,
+        "fleaPriceRoubles": 150000,
+        "locales": {
+            "en": {
+                "name": "MICC Pack",
+                "shortName": "MICC",
+                "description": "Handy storage bag for those life saving meds."
+            }
+        },
+			"addtoTraders": true,
+			    "traders": {
+			"THERAPIST": {
+        "6909dc36fd1315433d635222": {
+          "barterSettings": {
+            "loyalLevel": 1,
+            "unlimitedCount": true,
+            "stackObjectsCount": 99,
+            "BuyRestrictionMax": 5
+          },
+          "barters": [
+            {
+              "count": 150000,
+              "_tpl": "5449016a4bdc2d6f028b456f"
+            }
+          ]
+        }
+	}
+	}
+   }
+}

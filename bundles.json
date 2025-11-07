@@ -1,0 +1,8 @@
+{
+    "manifest": [
+        {
+            "key": "assets/micc.bundle",
+            "dependencyKeys": []
+        }
+    ]
+}
