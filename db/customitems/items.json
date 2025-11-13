@@ -51,7 +51,7 @@
 			"addtoTraders": true,
 			    "traders": {
 			"THERAPIST": {
-        "6909dc36fd1315433d635222": {
+        "69134cc620e5a5529909a7db": {
           "barterSettings": {
             "loyalLevel": 1,
             "unlimitedCount": true,
@@ -70,3 +70,4 @@
    }
 
 }
+
